@@ -1,0 +1,101 @@
+CustomerID,Age,State,Income,Purchases,LastPurchaseDate,Review,Churn
+CUST001,40,CA,40000,0,,,
+CUST002,40,california,40000,1,,N/A,
+CUST003,60,NY,40000,10,2021-13-40,N/A,N
+CUST004,200,California,1000000,10,2021-13-40,Great product!,Y
+CUST005,200,CA,40000,,5/20/2021,Loved it!!!,Yes
+CUST006,,New York,1000000,3,,terrible service...,Y
+CUST007,45,New York,,,,Ok,Yes
+CUST008,60,newyork,1000000,10,7/15/2021,,N
+CUST009,45,California,1000000,2,,Loved it!!!,Yes
+CUST010,25,newyork,70000,10,5/20/2021,terrible service...,No
+CUST011,50,California,40000,1,2021-13-40,N/A,No
+CUST012,,California,60000,0,7/15/2021,terrible service...,
+CUST013,45,california,1000000,10,2021-13-40,terrible service...,Yes
+CUST014,45,california,50000,,5/20/2021,Loved it!!!,
+CUST015,25,New York,,,,,
+CUST016,25,CA,1000000,1,2021-13-40,N/A,N
+CUST017,60,CA,,2,,would buy again,Y
+CUST018,30,California,,3,5/20/2021,Horrible!!,Y
+CUST019,60,New York,1000000,2,2021-13-40,Ok,Y
+CUST020,25,NY,60000,10,,Loved it!!!,Y
+CUST021,45,California,,3,7/15/2021,Ok,Yes
+CUST022,40,NY,60000,2,7/15/2021,terrible service...,
+CUST023,25,newyork,1000000,3,2021-13-40,,
+CUST024,30,california,,1,,terrible service...,
+CUST025,40,California,1000000,3,5/20/2021,Ok,N
+CUST026,45,newyork,40000,,7/15/2021,Horrible!!,
+CUST027,,CA,,10,7/15/2021,Loved it!!!,N
+CUST028,50,newyork,,,2021-13-40,would buy again,
+CUST029,25,California,60000,3,2021-13-40,Horrible!!,
+CUST030,50,NY,50000,2,2021-13-40,Great product!,N
+CUST031,200,New York,1000000,3,7/15/2021,,Yes
+CUST032,45,california,1000000,2,2021-13-40,N/A,Yes
+CUST033,25,,50000,0,7/15/2021,Great product!,Y
+CUST034,45,California,1000000,3,5/20/2021,Loved it!!!,
+CUST035,60,california,50000,3,7/15/2021,Great product!,Y
+CUST036,-5,california,60000,1,7/15/2021,N/A,Yes
+CUST037,,california,1000000,10,2021-13-40,Ok,N
+CUST038,40,California,60000,0,2021-13-40,Horrible!!,N
+CUST039,25,CA,60000,3,5/20/2021,terrible service...,Yes
+CUST040,30,California,70000,1,2021-13-40,terrible service...,N
+CUST041,200,New York,50000,1,,Horrible!!,Yes
+CUST042,45,,1000000,0,2021-13-40,Loved it!!!,No
+CUST043,35,california,70000,,2021-13-40,would buy again,Yes
+CUST044,-5,,60000,,5/20/2021,Great product!,
+CUST045,,newyork,1000000,0,7/15/2021,Horrible!!,No
+CUST046,50,newyork,,3,2021-13-40,Horrible!!,Yes
+CUST047,50,,40000,1,5/20/2021,Loved it!!!,Yes
+CUST048,45,NY,60000,10,7/15/2021,Loved it!!!,Yes
+CUST049,200,newyork,,0,7/15/2021,would buy again,N
+CUST050,50,California,40000,10,5/20/2021,Horrible!!,No
+CUST051,45,,40000,0,7/15/2021,Ok,
+CUST052,35,newyork,50000,1,,Ok,N
+CUST053,60,California,40000,3,7/15/2021,Loved it!!!,Yes
+CUST054,50,CA,50000,3,7/15/2021,N/A,
+CUST055,,New York,70000,,5/20/2021,Great product!,No
+CUST056,-5,CA,50000,1,5/20/2021,Horrible!!,Y
+CUST057,50,,40000,10,,Horrible!!,No
+CUST058,45,New York,1000000,3,7/15/2021,,N
+CUST059,25,CA,,2,5/20/2021,,N
+CUST060,50,New York,,0,7/15/2021,Great product!,N
+CUST061,50,CA,60000,,2021-13-40,Horrible!!,N
+CUST062,30,California,,1,5/20/2021,would buy again,No
+CUST063,30,California,50000,2,,would buy again,Y
+CUST064,40,california,1000000,0,7/15/2021,Great product!,
+CUST065,,NY,60000,1,,would buy again,
+CUST066,50,,40000,1,2021-13-40,N/A,
+CUST067,25,,1000000,2,2021-13-40,N/A,Y
+CUST068,,california,1000000,2,7/15/2021,N/A,N
+CUST069,,California,50000,3,2021-13-40,Loved it!!!,
+CUST070,60,CA,50000,,,would buy again,Y
+CUST071,,California,60000,0,2021-13-40,,N
+CUST072,200,newyork,1000000,0,7/15/2021,terrible service...,
+CUST073,35,newyork,40000,,7/15/2021,,Yes
+CUST074,45,,1000000,2,2021-13-40,Loved it!!!,No
+CUST075,,,,0,2021-13-40,would buy again,Yes
+CUST076,,california,60000,3,5/20/2021,N/A,Yes
+CUST077,200,,,0,5/20/2021,terrible service...,N
+CUST078,35,,60000,2,,Ok,No
+CUST079,35,CA,1000000,0,7/15/2021,Great product!,Yes
+CUST080,200,California,1000000,0,2021-13-40,would buy again,No
+CUST081,45,NY,70000,2,5/20/2021,terrible service...,Y
+CUST082,200,california,50000,10,2021-13-40,Loved it!!!,
+CUST083,50,,50000,3,2021-13-40,would buy again,Yes
+CUST084,40,NY,,1,7/15/2021,N/A,
+CUST085,50,CA,70000,3,7/15/2021,would buy again,No
+CUST086,-5,California,70000,,7/15/2021,Great product!,
+CUST087,50,California,40000,1,5/20/2021,terrible service...,No
+CUST088,60,California,1000000,2,2021-13-40,Great product!,Yes
+CUST089,50,,1000000,,5/20/2021,N/A,N
+CUST090,45,NY,70000,10,5/20/2021,,Yes
+CUST091,25,NY,,0,,Ok,No
+CUST092,200,New York,50000,2,7/15/2021,Ok,N
+CUST093,25,New York,50000,1,,Horrible!!,No
+CUST094,60,CA,40000,0,,Ok,N
+CUST095,25,newyork,40000,2,2021-13-40,Loved it!!!,Y
+CUST096,30,California,70000,10,2021-13-40,Ok,N
+CUST097,25,CA,50000,,2021-13-40,would buy again,
+CUST098,25,,1000000,1,,Great product!,N
+CUST099,25,California,50000,3,,Great product!,Y
+CUST100,-5,california,70000,,2021-13-40,Loved it!!!,Y
