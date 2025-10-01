@@ -125,7 +125,7 @@ def main():
             title='Marriage rate Over Time by Country'
         )
         fig_age.update_layout(xaxis_title="Year", yaxis_title="Age (Years)")
-        st.plotly_chart(fig_age, use_container_width=True)
+        st.plotly_chart(fig_age, use_container_width='stretch')
 
         st.subheader("2. Marriage Rate vs. Divorce Rate")
         
