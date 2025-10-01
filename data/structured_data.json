@@ -1,0 +1,136 @@
+{
+    "United States": {
+        "1920": {
+            "country": "United States",
+            "year": 1920,
+            "marriage_rate": 12.0,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "1930": {
+            "country": "United States",
+            "year": 1930,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "1946": {
+            "country": "United States",
+            "year": 1946,
+            "marriage_rate": 16.4,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "1970": {
+            "country": "United States",
+            "year": 1970,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "1972": {
+            "country": "United States",
+            "year": 1972,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "2020": {
+            "country": "United States",
+            "year": 2020,
+            "marriage_rate": 6.1,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    },
+    "England and Wales": {
+        "1963": {
+            "country": "England and Wales",
+            "year": 1963,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "1990": {
+            "country": "England and Wales",
+            "year": 1990,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "2022": {
+            "country": "England and Wales",
+            "year": 2022,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    },
+    "South Korea": {
+        "1990": {
+            "country": "South Korea",
+            "year": 1990,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        },
+        "2000": {
+            "country": "South Korea",
+            "year": 2000,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    },
+    "Norway": {
+        "1990": {
+            "country": "Norway",
+            "year": 1990,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    },
+    "Turkey": {
+        "1990": {
+            "country": "Turkey",
+            "year": 1990,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    },
+    "Mexico": {
+        "2020": {
+            "country": "Mexico",
+            "year": 2020,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    },
+    "Costa Rica": {
+        "2020": {
+            "country": "Costa Rica",
+            "year": 2020,
+            "marriage_rate": null,
+            "divorce_rate": null,
+            "extracted_at": null,
+            "updated_at": null
+        }
+    }
+}
